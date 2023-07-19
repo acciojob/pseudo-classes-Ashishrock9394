@@ -1,5 +1,5 @@
-body{
-	 background:rgb(135, 206, 235);
+*{
+	 background: rgb(135, 206, 235);
 }
 p:first-child{
     background-color: black;
